@@ -1,5 +1,5 @@
 
-In my application, you can search for articles related to a term in headlines all around the world! The NewsAPI is international and across many different publications. You can search for serious topics like "economy" or silly ones like "whoops!" It will show up. Once you see your list of articles, you can register and login with the app to save a bunch of articles to a collection. You must be logged in for the collections feature! In collections, if you made a mistake, you can go back and delete certain items.
+In my application, you can search for articles related to a term in headlines all around the world! The NewsAPI is international and across many different publications. You can search for serious topics like "economy" or silly ones like "whoops". It will show up. Once you see your list of articles, you can register and login with the app to save a bunch of articles to a collection. You must be logged in for the collections feature! In collections, if you made a mistake, you can go back and delete certain items.
 
 Heads up! All of your searches are logged.
 And you can only see 10 articles at a time.
@@ -36,7 +36,7 @@ https://www.geeksforgeeks.org/python-program-check-string-contains-special-chara
 https://www.pythonforbeginners.com/dictionary/how-to-use-dictionaries-in-python
 https://docs.google.com/document/d/1xjIiqyW0qkN4cTwgLJLjDHCdFcJBG_I6OijAaKvXEuo/edit
 
-Requirements:
+Requirements: (Some are not bolding correctly. I should have all of them except AJAX and update.)
 
 **Ensure that your SI364final.py file has all the setup (app.config values, import statements, code to run the app if that file is run, etc) necessary to run the Flask application, and the application runs correctly on http://localhost:5000 (and the other routes you set up). Your main file must be called SI364final.py, but of course you may include other files if you need.**
 
